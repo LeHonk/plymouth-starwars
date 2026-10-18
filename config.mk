@@ -3,8 +3,8 @@
 
 # Identifier: names the plugin .so, the theme directory and ModuleName.
 # Lowercase letters, digits and dashes only.
-DEMO_NAME   := demo-base
-DEMO_TITLE  := Plymouth Demo Base
+DEMO_NAME   := star-wars
+DEMO_TITLE  := star-wars
 DEMO_DESC   := Old school demoscene boot splash
 
 # Internal render resolution. The frame is integer-scaled and letterboxed
